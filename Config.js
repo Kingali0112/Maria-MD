@@ -2,8 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber = ['919931122319']
-global.ownername = "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰"//owner name
+global.ownernumber = ['923318086563']
+global.ownername = "💙𓆩‎✘KING𓆪_✰"//owner name
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
 global.location = "Indian"
@@ -26,10 +26,10 @@ global.prefa = ['.']
 
 //false=disable and true=enable
 global.welcome = false //auto welcome
-global.react = false //auto react
+global.react = true //auto react
 global.groupOnly = false;
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
@@ -44,10 +44,10 @@ global.mess = {
     prem: '*This feature can be used by premium user only*',
     admin: '*This feature can be used by admin only*',
     botAdmin: '*This feature can only be used when the bot is a group admin* ',
-    owner: '*This feature can be used by owner only*',
+    owner: '*This feature can be used by KING only*',
     group: '*This feature is only for groups*',
     private: '*This feature is only for private chats*',
-    wait: '*In process...* ',    
+    wait: '*In process...😉* ',    
     error: '*Error!*',
 }
 
